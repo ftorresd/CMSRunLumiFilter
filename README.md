@@ -1,6 +1,6 @@
 ## CMS Run:Lumi Filter
 
-A dead simple CMS Run:Lumi filter for vanilla [ROOT](https://root.cern.ch/) macros. Should work in more complex implementations.
+**A dead simple 💀🎯 CMS Run:Lumi filter for vanilla [ROOT](https://root.cern.ch/) macros.** Should work in more complex implementations...
 
 ## Usage
 
