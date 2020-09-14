@@ -8,7 +8,7 @@ Just include the `"include/CMSRunLumiFilter.h"`, create a `CMSRunLumiFilter` obj
 
 ## Example 
 
-As in `test.C`:
+As in [`test.C`](https://github.com/ftorresd/CMSRunLumiFilter/blob/master/test.C):
 
 ```C++
 #include "include/CMSRunLumiFilter.h"
